@@ -73,9 +73,9 @@ int main()
     }
     return 0;    
 }
-# OUTPUT
-![Screenshot 2025-04-11 162157](https://github.com/user-attachments/assets/813562cc-fda8-4334-b0cf-2ac9aea07587)
-![Screenshot 2025-04-14 174435](https://github.com/user-attachments/assets/2d6f1636-b4e3-4337-939f-ee50c21d10fe)
+# OUTPU
+![Screenshot 2025-04-22 132332](https://github.com/user-attachments/assets/3f9316d2-ab45-4add-83c0-6b6b626cbbd8)
+![Screenshot 2025-04-22 132422](https://github.com/user-attachments/assets/d619a785-2373-44f7-b55c-0f9d75f9b44c)
 
 # RESULT
 ### The program to implement a symbol table is executed and the output is verified.
